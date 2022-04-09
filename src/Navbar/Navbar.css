@@ -1,0 +1,23 @@
+.Navbar-Text{
+    font-size: 28px;
+    border: solid 1px #19153d;
+    background-color: #19153d;
+    border-radius: 5px;
+    padding: 7px;
+    margin-left: 10%;
+    align-items: center;
+    
+}
+.Navbar-Li{
+    font-size: 16px;
+    padding: 2px;
+    margin-left: 4%;
+    align-items: center;
+    color: aliceblue;
+}
+.Navbar-body{
+    background-color: crimson;
+    border-bottom-right-radius:5px ;
+    border-bottom-left-radius:5px ;
+    margin-bottom:0;
+}
